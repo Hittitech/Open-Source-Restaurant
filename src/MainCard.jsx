@@ -3,7 +3,7 @@ import React from 'react'
 function MainCard(props) {
   return (
     <>
-        <h1 className=' mt-5 text-center main-heading'>The Open-Source Restraunt</h1>
+        <h1 className=' mt-5 text-center main-heading'>The Open-Source Restaurant</h1>
       <hr/>
       <div className='mt-5 container'>
       <div className='menu-tab  d-flex  justify-content-around '>
